@@ -1,6 +1,6 @@
-name: 'Container Action Template'
-description: 'Get started with Container actions'
-author: 'GitHub'
+name: 'my Debian package'
+description: 'Yet another "Build my Debian package" GitHub Action'
+author: 'deogracia'
 inputs: 
   myInput:
     description: 'Input to use'
