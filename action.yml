@@ -1,6 +1,9 @@
 name: 'my Debian package'
 description: 'Yet another "Build my Debian package" GitHub Action'
 author: 'deogracia'
+branding:
+  icon:  package
+  color: blue
 inputs: 
   myInput:
     description: 'Input to use'
