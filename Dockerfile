@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM debian:11.5
 
 COPY LICENSE README.md /
 
